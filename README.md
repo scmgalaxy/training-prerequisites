@@ -8,5 +8,5 @@
 ## 2. Complete the setup guide for your computer's operating system
 
   - [OS-X](/OS-X/terminal.md)
-  - [Ubuntu](/ubuntu/terminal.md)
-  - [Windows](/windows/terminal.md)
+  - [Ubuntu](/Ubuntu/terminal.md)
+  - [Windows](/Windows/terminal.md)
