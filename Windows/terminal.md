@@ -1,4 +1,4 @@
-# Setup for Windows
+d# Setup for Windows
 
 This guide will help you setup a software development environment on [Windows 7](http://windows.microsoft.com/en-us/windows/home) and above. By the end, your computer will be configured with a bash terminal.
 
@@ -88,4 +88,4 @@ Now, relaunch the Console app—ignoring the security warning again—and you'll
 
 Finally, close Git Bash and the new Terminal App should work with copy & paste support.
 
-## [Next ⇒](sublime_text.md)
+## [Next ⇒](sublime.md)
