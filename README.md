@@ -10,3 +10,7 @@
   - [OS-X](/OS-X/terminal.md)
   - [Ubuntu](/Ubuntu/terminal.md)
   - [Windows](/Windows/terminal.md)
+
+## 3. Follow the Strongloop Setup guide to get all of the other peripheral software, tools, framework pieces and more for the training.
+
+  - [Strongloop Setup Guide](https://strongloop.com/node-js/training/prerequisites/)
