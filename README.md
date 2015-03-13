@@ -7,6 +7,6 @@
 
 ## 2. Complete the setup guide for your computer's operating system
 
-  - [OS-X](/training-prerequisites/blob/master/OS-X/terminal.md)
+  - [OS-X](/OS-X/terminal.md)
   - [Ubuntu](prework/ubuntu/terminal.md)
   - [Windows](prework/windows/terminal.md)
