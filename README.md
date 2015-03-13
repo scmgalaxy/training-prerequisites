@@ -7,6 +7,6 @@
 
 ## 2. Complete the setup guide for your computer's operating system
 
-  - [OS-X](prework/mac/terminal.md)
+  - [OS-X](blob/master/OS-X/terminal.md)
   - [Ubuntu](prework/ubuntu/terminal.md)
   - [Windows](prework/windows/terminal.md)
