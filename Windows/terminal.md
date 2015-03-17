@@ -1,4 +1,6 @@
-d# Setup for Windows
+## Setup for Windows
+
+***NOTE:*** **Windows is not an ideal operating system to use for this type of work. Ideally running a Virtual Machine of Ubuntu is a much better option and will provide you a better learning experience for this course than using Windows. If for some reason OS-X or Ubuntu (Linux) can't be used, these steps include a way to setup Windows in order to be able to follow along with most of the material in the course. There are still issues and incompatibilities that Windows faces that generally make doing development from the terminal & repl more difficult.**
 
 This guide will help you setup a software development environment on [Windows 7](http://windows.microsoft.com/en-us/windows/home) and above. By the end, your computer will be configured with a bash terminal.
 
